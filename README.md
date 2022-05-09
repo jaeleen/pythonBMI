@@ -1,13 +1,5 @@
 ## BMI Calculator 2.0
 
-# UPDATE
-We've moved away from repl.it for coding exercises.
-Check out the new exercises on Coding Rooms with automated submissions.
-
-Login to your Udemy course and head over to the link below to get the sign up link:
-
-[Click here](https://www.udemy.com/course/100-days-of-code/learn/lecture/17825914#questions)
-
 # Instructions
 
 Write a program that interprets the Body Mass Index (BMI) based on a user's weight and height.
@@ -59,24 +51,3 @@ The testing code will check for print output that is formatted like one of the l
 "Your BMI is 33, you are obese."
 "Your BMI is 40, you are clinically obese."
 ```
-
-Hint
-
-1. Try to use the **exponent** operator in your code.
-2. Remember to **round** your result to the nearest whole number. 
-3. Make sure you include the words in **bold** from the interpretations. 
-
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-3-2-test-your-code](https://repl.it/@appbrewery/day-3-2-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
-
-
-
-
-# Solution
-
-[https://repl.it/@appbrewery/day-3-2-solution](https://repl.it/@appbrewery/day-3-2-solution)
